@@ -10,6 +10,18 @@
 
 当前仓库首版只发布工具和模板，不包含商业小说正文。
 
+## 排版效果预览
+
+以下页面由仓库内的 TXT 转 EPUB 模板生成，文字均为原创示例，不含商业小说正文。实际阅读时，正文背景会跟随阅读器主题。
+
+| 封面 | 简介 | 制作说明 |
+| --- | --- | --- |
+| ![自适应封面](docs/images/cover.png) | ![双层卡片简介页](docs/images/introduction.png) | ![制作说明页](docs/images/production-note.png) |
+
+| 卷页 | 正文 |
+| --- | --- |
+| ![卷标题页](docs/images/volume-page.png) | ![中文正文排版](docs/images/chapter-page.png) |
+
 ## 使用 TXT 转 EPUB 模板
 
 在 Codex 中可以直接说：
