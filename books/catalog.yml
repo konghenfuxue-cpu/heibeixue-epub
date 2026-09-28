@@ -1,0 +1,14 @@
+books: []
+
+# 示例：
+# - title: "作品名"
+#   author: "作者"
+#   file: "作品名.epub"
+#   release_url: ""
+#   rights_basis: "original | authorized | public-domain | licensed"
+#   license: "CC BY 4.0"
+#   rights_evidence_url: "https://example.com/permission"
+#   edition: "1.0"
+#   produced_by: "黑背雪"
+#   produced_at: "YYYY-MM-DD"
+#   sha256: ""
